@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/home";
-import Navigation from "./components/navigation";
+import Navigation from "./navigation";
 import Categories from "./pages/categories";
 import Breathing from "./pages/fields/breathing";
 import Sleeping from "./pages/fields/sleeping";
