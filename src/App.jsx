@@ -1,13 +1,13 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/home";
-import Navigation from "./Components/Navigation";
+import Navigation from "./components/navigation";
 import Categories from "./pages/categories";
-import Breathing from "./pages/fields/Breathing";
-import Sleeping from "./pages/fields/Sleeping";
-import Exercise from "./pages/fields/Exercise";
+import Breathing from "./pages/fields/breathing";
+import Sleeping from "./pages/fields/sleeping";
+import Exercise from "./pages/fields/exercise";
 import HealthyHabits from "./pages/fields/healthyhabits";
 import Disease from "./pages/fields/disease";
-import Lectin from "./pages/fields/Lectin";
+import Lectin from "./pages/fields/lectin";
 
 function App() {
   return (
