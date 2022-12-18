@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import healthtopics from "./healthtopics";
 
-export default function categories() {
+export default function Categories() {
   return (
     <div>
       <div className="h-screen">

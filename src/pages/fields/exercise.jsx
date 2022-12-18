@@ -1,4 +1,4 @@
-export default function exercise() {
+export default function Exercise() {
     return (
       <div>
         <div className="h-auto bg-white">

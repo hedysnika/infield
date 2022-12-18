@@ -1,4 +1,4 @@
-export default function healthyhabits() {
+export default function Healthyhabits() {
     return (
       <div>
         <div className="h-auto bg-white">

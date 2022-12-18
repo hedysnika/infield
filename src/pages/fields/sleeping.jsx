@@ -1,4 +1,4 @@
-export default function sleeping() {
+export default function Sleeping() {
     return (
       <div>
         <div className="h-auto bg-white">
