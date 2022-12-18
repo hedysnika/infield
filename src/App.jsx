@@ -2,12 +2,12 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/home";
 import Navigation from "./navigation";
 import Categories from "./pages/categories";
-import Breathing from "./pages/fields/breathing";
-import Sleeping from "./pages/fields/sleeping";
-import Exercise from "./pages/fields/exercise";
-import HealthyHabits from "./pages/fields/healthyhabits";
-import Disease from "./pages/fields/disease";
-import Lectin from "./pages/fields/lectin";
+import Breathing from "./pages/breathing";
+import Sleeping from "./pages/sleeping";
+import Exercise from "./pages/exercise";
+import HealthyHabits from "./pages/healthyhabits";
+import Disease from "./pages/disease";
+import Lectin from "./pages/lectin";
 
 function App() {
   return (
